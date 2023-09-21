@@ -14,7 +14,7 @@ const Feature = ({ feature }) => {
 };
 
 Feature.propTypes = {
-  features: PropTypes.string,
+  feature: PropTypes.string,
 };
 
 export default Feature;
